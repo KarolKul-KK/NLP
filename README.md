@@ -1,3 +1,3 @@
-# Python_Dojo
+# Natural language processing
  
-The Clean Coder
+In this repository i will contain my NLP models and algorithms.
